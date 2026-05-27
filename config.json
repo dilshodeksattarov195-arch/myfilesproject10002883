@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseppdate",
+        "uuid": 25681764,
+        "checksum": "lwe1oh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
